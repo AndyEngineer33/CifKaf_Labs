@@ -25,7 +25,7 @@
     <img width="673" alt="image" src="https://user-images.githubusercontent.com/14962819/194056078-0d915a4c-4b45-488a-8084-69cd86d7ba87.png">  
     Правильный результат:  
     <img width="298" alt="image" src="https://user-images.githubusercontent.com/14962819/194056358-fdd56b9a-042c-448c-af2a-2628b7f4eae9.png">
-1. В разделе "Commit changes" указать такое же имя, как называется папка, например, Лабораторная работа 1 и выбрать пункт "Create a new branch ...".     
+1. В разделе "Commit changes" указать такое же имя, как называется папка, например, Лабораторная работа 6 и выбрать пункт "Create a new branch ...".     
     ![image](https://user-images.githubusercontent.com/14962819/194061021-9db55d14-5b92-42d9-97b8-57827bcf0b7f.png)
 1. Далее при необходимости можно сопроводить вашу работу любыми необходимыми комментариями. И нажать кнопку "Create pull request"
     ![image](https://user-images.githubusercontent.com/14962819/194061318-278b9e6e-550b-47bf-893b-229325c7ad5a.png)
